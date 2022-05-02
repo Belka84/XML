@@ -1,16 +1,16 @@
 <xml>
 <titleOfTheBugReport>"Registration form don’t send"</titleOfTheBugReport>
- <shortDescription of the error>"Registration form don’t send",
-  "Project": "www.planka.club"</shortDescription of the error>
-  <applicationComponent>"Registration form"</applicationComponent>
-  <versionNumber>66.66.77</versionNumber>
-   <bugSeverity>"S4"</bugSeverity>
-   <bugStatus>"Opened"</bugStatus>
-  <author>"Solovyeva Ksenia"</author>
-  <assignedTo>"Smirnov Oleg"</assignedTo>
-  <environment>"macOS Monterey 12.1", "Chrome 100.0.4896.127"</environment>
-  <playback steps>"open registration form"</playback steps>
-  <completedAllFields>"name", "age", "the address", "clicked send"</completedAllFields>
-  <actualResult>"404 error"</actualResult>
-  <ExpectedResult>"Successful registration"</ExpectedResult>
-  <additions>""</additions>
+<shortDescriptionOfTheError>"Registration form don’t send"</shortDescriptionOfTheError>
+<Project>"www.planka.club"</Project>
+<applicationComponent>"Registration form"</applicationComponent>
+<versionNumber>66.66.77</versionNumber>
+<bugSeverity>"S4"</bugSeverity>
+<bugStatus>"Opened"</bugStatus>
+<author>"Solovyeva Ksenia"</author>
+<assignedTo>"Smirnov Oleg"</assignedTo>
+<environment>"macOS Monterey 12.1", "Chrome 100.0.4896.127"</environment>
+<playback steps>"open registration form"</playback steps>
+<completedAllFields>"name", "age", "the address", "clicked send"</completedAllFields>
+<actualResult>"404 error"</actualResult>
+<ExpectedResult>"Successful registration"</ExpectedResult>
+<additions>""</additions>
