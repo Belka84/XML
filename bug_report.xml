@@ -9,7 +9,7 @@
 <author>"Solovyeva Ksenia"</author>
 <assignedTo>"Smirnov Oleg"</assignedTo>
 <environment>"macOS Monterey 12.1", "Chrome 100.0.4896.127"</environment>
-<playback steps>"open registration form"</playback steps>
+<playbackSteps>"open registration form"</playbackSteps>
 <completedAllFields>"name", "age", "the address", "clicked send"</completedAllFields>
 <actualResult>"404 error"</actualResult>
 <ExpectedResult>"Successful registration"</ExpectedResult>
